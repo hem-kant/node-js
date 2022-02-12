@@ -1,0 +1,15 @@
+{
+  "name": "node.js-microservice",
+  "version": "1.0.0",
+  "description": "This is a Node.js based microservice running on Docker and fetches data from Graphql!!!!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hem Kant",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "request": "^2.88.0"
+  }
+}

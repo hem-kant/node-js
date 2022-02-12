@@ -1,0 +1,28 @@
+{
+  "name": "node-new",
+  "version": "1.0.0",
+  "description": " Node learning",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hem-kant/node-js.git"
+  },
+  "keywords": [
+    "node",
+    "code"
+  ],
+  "author": "Hem Kant",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hem-kant/node-js/issues"
+  },
+  "homepage": "https://github.com/hem-kant/node-js#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "simple-node-logger": "^21.8.12"
+  }
+}
