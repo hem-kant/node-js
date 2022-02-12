@@ -26,4 +26,6 @@ console.log("colors".red)
 
 //fs.writeFileSync("demo.txt","demo text")
 console.log(__dirname);
-fs("demo1.txt","global")
+fs("demo2.txt","global")
+
+console.log("colors".green)
